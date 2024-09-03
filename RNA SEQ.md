@@ -23,6 +23,7 @@ A case study of application of RNA SEQ in cancer research are the Gene fusions i
 Conclusion-
 
 RNA-seq has revolutionized transcriptome studies, offering unparalleled insight into gene expression and molecular processes. This technique quantifies expression with high sensitivity, discovers new transcript isoforms, and detects gene fusions and single nucleotide variants in a single experiment. The shift from Sanger to NGS has greatly enhanced its capabilities, making it indispensable in cancer research. RNA-seq reveals intricate cancer molecular landscapes, pinpoints critical biomarkers and therapeutic targets, and is fundamental to understanding oncogenesis, tailoring treatments, and improving patient outcomes. Its significance is in uncovering complex gene expression patterns and molecular changes, which are crucial in the ongoing fight against cancer.
+
 #REFERENCE-
 1.RNA sequencing: new technologies and applications in cancer research.https://jhoonline.biomedcentral.com/articles/10.1186/s13045-020-01005-x
 2.https://www.bio-rad.com/en-in/applications-technologies/rna-seq-workflow?ID=Q106ZUWDLBV5
